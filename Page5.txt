@@ -1,0 +1,33 @@
+Four Pillars of OOPs are:
+1.Encapsulation
+2.Inheritance
+3.Polymorphism
+4.Abstraction
+
+
+1.Encapsulation
+Encapsulation is the wrapping data(attributes/variables)and methods(functions) into a single unit called class.
+It ensures data hiding using private access modifiers.
+It accesses the data using getter and setter method.
+Ex- A capsule
+
+Getter- Getter method is used to access(read) the value of a private variable.
+Setter- Setter method is used to modify(update) the value of a private variable.
+
+
+2.Inheritance
+Inheritence is the process by which one class acquire properties and methods of another class.
+It promotes code reuse and hierarchical structure.
+Ex- A child inherits traits like eye color and height from their parents.
+
+
+3.
+
+
+
+
+
+
+
+
+

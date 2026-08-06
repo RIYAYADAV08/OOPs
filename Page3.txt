@@ -1,0 +1,47 @@
+Acesss specifiers/Modifiers
+Acesss specifiers/Modifiers are the keywords that determine who can access the variables and methods of a class.
+
+
+There are four types:
+1.Private- Private can be accessed only within the same class.
+2.Protected- Protected can be accessed within the same class, the same package, and by child(subclass)classes.
+3.Public- Public can be accessed from anywhere.
+4.Default (no modifier) – Can be accessed only within the same package.
+
+
+1. Package 📦
+Package matlab classes ka folder.
+src
+ └── com
+      └── example
+           ├── Student.java
+           └── Teacher.java
+Yahan com.example ek package hai.
+ex- package com.example;
+public class Student {
+}
+Agar Student.java aur Teacher.java dono com.example me hain, to dono same package me hain.
+
+
+2.Subclass (Child Class) 👨‍👦
+Jab ek class dusri class ko inherit karti hai, to woh subclass ya child class kehlati hai.
+class Animal {
+}
+class Dog extends Animal {
+}
+Animal → Parent (Superclass)
+Dog → Child (Subclass)
+extends keyword inheritance ke liye use hota hai.
+
+
+3.World
+Kahin se bhi (any package, any class)
+
+Parent Class = Base Class = Superclass
+Child Class = Derived Class = Subclass
+
+Access Modifier	 Same Class 	 Same Package	           Child Class                              World
+private	          ✅	               ❌	                   ❌	                                 ❌
+default	          ✅	               ✅	                   ✅ (agar same package me ho)	         ❌
+protected	      ✅	               ✅	                   ✅	                                 ❌
+public	          ✅	               ✅	                   ✅	                                 ✅
