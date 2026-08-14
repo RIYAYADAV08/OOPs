@@ -1,2 +1,0 @@
-Friend class
-A friend class in C++ is a special class that is allowed to access the private and protected members of another class using the friend keyword.
