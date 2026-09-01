@@ -1,0 +1,131 @@
+OOPs
+OOPs is a programming paradigm based on classes and objects that helps us to design software using real-world entities.
+
+Procedural programming
+Code is written as a sequence of instructions.
+Only functions are present, not objects.
+Ex- C(Pure procedural programming language), Pascal, COBOL(Common Business Oriented Lnaguage).
+
+Note- Java is primarily Object oriented Programming Language but it also supports procedural programming language.
+
+Problems in PP
+1.Code is not well organized.
+2.Same code is written again and again.
+3.Large programs are difficult to manage.
+4.Real world things are difficult to represent.
+5.Anyone can access the data.
+
+Need of OOPs
+1.OOPs organize data using classes.
+2.OOPs allows code reuse using inheritance.
+3.Large programs are easy to manage.
+4.OOPs represent real-world objects.
+5.OOPs keeps data safe using encapsulation.
+
+Advantages of OOPs
+1.Modularity- Code is divided into objects and classes so it is easy to understand and manage.
+2.Reusability- We can reuse existing code using inheritance which saves time and effort.
+3.Data Security(Encapsulation)- OOPs protects important details by hiding it from the direct access.
+4.Maintainability- It is easy to update, modify and fix the code.
+5.Scalability- OOPs makes it easy to develop and manage large applications.
+6.Real-world things- OOPs represents real-world things like car, student, and bank account etc.
+
+
+Access Specifiers/Modifiers
+Access Specifiers/Modifiers are the keywords that determine who can access the variables and methods of a class.
+
+There are four types.
+1.Private- Can be accessed only with in the same class.
+2.Protected- Can be accessed within the same class, the same package, and by child(subclass) classes.
+3.Public- Public can be accessed from anywhere.
+4.Default(No Modifier)- Can be accessed only within the same package.
+
+Package 📦
+Package matlab classes ka folder.
+src
+ └── com
+      └── example
+           ├── Student.java
+           └── Teacher.java
+Yahan com.example ek package hai.
+Agar Student.java aur Teacher.java dono com.example me hain, to dono same package me hain.
+
+2.Subclass (Child Class) 
+Jab ek class dusri class ko inherit karti hai, to woh subclass ya child class kehlati hai.
+class Animal {
+}
+class Dog extends Animal {
+}
+Animal → Parent (Superclass)
+Dog → Child (Subclass)
+extends keyword inheritance ke liye use hota hai.
+
+Parent Class = Base Class = Superclass
+Child Class = Derived Class = Subclass
+
+Access Modifier	 Same Class 	 Same Package	           Child Class                              World
+private               ✅	               ❌	                   ❌	                                 ❌
+default	            ✅	               ✅	                   ✅ (agar same package me ho)	         ❌
+protected	            ✅	               ✅	                   ✅	                                 ❌
+public	            ✅	               ✅	                   ✅	                                 ✅
+
+Friend class(Only in C++)
+A friend class in C++ is a special class that is allowed to access the private and protected member of another class using the friend keyword.
+
+Four Pillars of OOPs are:
+1.Encapsulation
+2.Inheritance
+3.Polymorphism
+4.Abstraction
+
+1.Encapsulation
+Encapsulation is the wrapping data(attributes/variables) and methods(functions) into a single unit called class.
+It ensures data hiding using private access modifiers.
+It accesses the data using getter and setter method.
+
+Getter- Getter is used to access(read) the value of a private variable.
+Setter- Setter is used to modify(update) the value of a private variable.
+
+
+2.Inheritance
+Inheritance is the process by which one class acquire propertiers and methods from another 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
