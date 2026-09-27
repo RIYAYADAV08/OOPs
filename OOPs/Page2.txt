@@ -1,0 +1,13 @@
+//Class
+//Class is a blueprint or template used to create objects.
+
+//Object
+//Objects are real-world entities/instances of a class that contains data(object ki info.) and methods(object ky kaam karta hai.).
+//It is created in memory and used to perform operations.
+//Data(also called attributes)
+//Methods(also called behaviours)
+//Ex- Pen   
+//Class- Pen Blueprint
+//Object- Actual Pen
+//Attributes- Color, Tip
+//Methods- settip(), setcolor()
