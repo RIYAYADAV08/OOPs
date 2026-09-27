@@ -1,0 +1,14 @@
+//Four pillars of OOPs are:
+//1.Encapsulation
+//2.Inheritance
+//3.Polymorphism
+//4.Abstraction
+
+//1.Encapsulation- Encapsulation is the process of wrapping data(attributes/variables) and methods into a single unit called class.
+//It ensures data hiding using private access modifiers.
+//Ex-A capsule hides the bitter medicine inside a protective shell, just like a class hides its data and exposes it only through methods.
+
+//2.Inheritance- Inheritance is a mechanism in OOPs in which one class aquire properties and behaviour from another class.
+//It allows code reuse and hierarchical structure.
+//It uses the extends keyword.
+//Ex-A child inherits traits like eye color and height from their parents.
