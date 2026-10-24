@@ -32,4 +32,14 @@ The notes cover fundamental OOPs concepts in C++ and Java, with simple explanati
 ## Languages
 
 - C++
--
+- Java
+
+## Objective
+
+To build strong OOPs fundamentals, revise important concepts, and prepare for core-subject questions asked in campus placement assessments and technical interviews.
+
+## Author
+
+**Riya Yadav**
+
+GitHub: [RIYAYADAV08](https://github.com/RIYAYADAV08)
