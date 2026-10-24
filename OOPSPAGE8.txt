@@ -1,0 +1,7 @@
+Scope Resolution Operator(::)
+Scope resolution operator is used to access variables or functions that are outside the current scope or belong to a specific class/namespace.
+
+Uses of scope resolution operator
+It is used to access the global variable when a local variable has the same name.
+It is used to define a class member function outside the class.
+It is used to access variables or functions inside a namespace.

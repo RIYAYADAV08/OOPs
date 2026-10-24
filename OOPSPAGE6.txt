@@ -1,0 +1,25 @@
+Constructor 
+A constructor is a special method that is called automatically when a object is created.
+It is used to initialize an object.
+It has the same name as the class name.
+It does not have a return type(not even void).
+Memory is allocated to the object before the constructor is called.
+
+Types of Constructor
+1.Non Parametrized constructor/Default
+2.Parametrized 
+3.Copy Constructor
+
+1.Non Parametrized constructor/Default
+It does not have any parameters.
+It is used when we want to create an objects without passing any values.
+
+2.Parametrized constructor
+It accepts parameters to initialize object values at creation time.
+
+3.Copy Constructor
+It is a special Constructor.
+It creates a new object by copying the value of an existing object.
+
+C++: Supports a built-in copy constructor.
+Java: Does not provide a built-in copy constructor; it must be created manually.

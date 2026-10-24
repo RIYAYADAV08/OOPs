@@ -1,0 +1,9 @@
+This pointer
+This keyword is a pointer(in C++) and reference(in Java) that refers to the current object- the object whose method or constructor is being executed.
+It helps to differentiate between class attributes and parameters, especailly when they have the same name.
+It is available only inside non-static member functions.
+It is not available in static methods because they do not belong to a specific object.
+
+C++ Vs Java
+C++ - It is a pointer, so we use -> to access members.
+Java - It is a reference, so we use . to access members.

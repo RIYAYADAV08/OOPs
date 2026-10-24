@@ -1,0 +1,11 @@
+Shallow copy
+It copies the reference and address of dynamic members.
+Both objects share the same memory.
+Chanding data in one object affects the other.
+Ex- Copying a key: both key looks the same and are linked.
+
+Deep copy
+It creates new memory and copies the actual value.
+Both objects are independent.
+Changing data in one object does not affect the other.
+Ex- Making a new key from scratch(fully separate).

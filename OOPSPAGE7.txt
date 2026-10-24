@@ -1,0 +1,22 @@
+Destructors(Only in C++)
+A destructor is a special member function that is called automatically when an object goes out of scope or is explicitly deleted.
+It is used to free resources like file handles, memory etc.
+It has the same name as the class name and prefixed with tilde(~).
+It does not have a return type.
+It has no parameters.
+
+What about Java?
+Java does not have destructors. Instead, it has a garbage collector.
+
+Garbage collector
+It is a memory management feature.
+It automatically frees memory occupies by objects no longer in use.
+We don't need to delete manually objects in Java - the garbage collector does it.
+
+Garbage Collection
+Garbage Collection is the process of automatically identifying and removing objects from memory that are no loger used by a program.
+
+Need of Garbage Collection
+It detects unreachable objects.
+It reclaims their memory and prevents memory leaks.
+It keeps your app efficient and safe.

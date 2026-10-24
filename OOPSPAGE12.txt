@@ -1,0 +1,31 @@
+Types Of inheritance:
+1.Single inheritance
+A class is allowed to inherit from only one class.
+A derived class inherits from one base class.
+Parent -> Child
+
+2.Multilevel inheritance
+A class is derived from a class which is already derived from another class.
+Parent -> Child -> GrandChild
+
+3.Hierarchical inheritance
+Multiple classes inherit from a single base class.
+One base -> Multiple derived classes
+
+4.Multiple inheritance
+A single class inherits from two or more base classes.
+One class inherits from multiple base classes.
+
+Does Java support multiple Inheritance?
+No, Java does not support using classes.
+Yes, Java support using interfaces.
+
+Why does Java not support multiple Inheritance using classes?
+It leads to ambiguity.
+Ambiguity in Inheritance occurs when a class inherits from multiple classes that have methods or members with the same name - making it unclear which one should be called.
+
+What is Interface?
+Interface is a contract that defines a set of methods(without implementations) that a class must implement.
+
+5.Hybrid Inheritance
+A combination of two or more types of Inheritance(like multiple + multilevel).

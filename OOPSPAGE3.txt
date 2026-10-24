@@ -1,0 +1,20 @@
+Access Specifiers/Modifiers
+Access Specifiers/Modifiers defines the visibility or accessibility of class members(variables and methods). They decide where we can access variables and methods.
+
+Types of access specifiers/modifiers
+1.Private- Members can be accessed only within the same class.
+2.Protected- Members can be accessed within the same class, within theS same package, and by subclasses in other packages.
+3.Public- Members can be accessed from anywhere, provided the class is accessible.
+
+Access Modifiers Table
+Modifier	       Same Class	       Same Package	            Subclass (Other Package)	                     World
+Private  	       Yes                 	   No	                   No                                             No	                                                                No
+Protected	       Yes	                   Yes	                   Yes*	                                          No
+Public	           Yes	                   Yes     	               Yes	                                          Yes
+
+Protected- In another package, protected members can be accessed through inheritance by a subclass.
+Default-access modifier- If no access modifier is specified, java uses default access modifier- Members can be accessed only within the same package.
+C++ has three access modifiers: private, protected and public. Java has four : one is default access(package-private).
+
+Subclass = Child class = Derived class
+Superclass = Parent class = Base class

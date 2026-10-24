@@ -1,0 +1,24 @@
+OOPS
+OOPS is a programming paradigm based on classes and objects that helps us to design software using real-world entities.
+
+Procedural Programming 
+Code is written as a sequence of instructions.
+It focuses on functions rather than objects.
+Ex- C(Pure procedural programming language), PasCal, COBOL(Common Business Oriented Language).
+
+Java is primarily an object oriented programming language, but it also supports procedural programming language.
+
+Problems in PP                                            Need Of OOPS
+Code is not well-organized.                               OOPS organize data using classes.
+Same code is written again and again.                     OOPS allows code reuse using inheritance.
+Large programs are difficult to manage.                   Large programs are easy to manage.
+Anyone can access the data.                               OOPS keeps data safe using encapsulation.
+Real-world objects are difficult to represent.            OOPS represents real-world objects.
+
+Advantages Of OOPS
+Modularity- Code is divided into classes and objects, so it is easy to understand and manage.
+Reusability- OOPS allows code resue using inheritance, which saves time and efforts.
+Data Security(Encapsulation)- OOPS protects important details by hiding it, from the direct access.
+Maintainability- It is easy to update, modify and fix the code.
+Scalability- OOPS makes it easy to develop and manage large applications.
+Real-world modelling- OOPS represents real world objects like car, student, bank account etc.
