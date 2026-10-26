@@ -1,0 +1,5 @@
+Friend Class(Only in C++).
+A friend class in c++ is a class that is allowed to access the private and protected members of another class. 
+It is declared using the friend keyword.
+Java does not support friend classes.
+Ex- A car class has a private engine number. A mechanic class is declared as its friend, so it can access the private engine number.

@@ -1,0 +1,27 @@
+Four pillar of OOPS are:
+1.Encapsulation
+2.Inheritance
+3.Polymorphism
+4.Abstraction
+
+1.Encapsulation- Encapsulation is the wrapping data(attributes/variables) and methods into a single unit called class.
+It ensures data hiding using private access modifiers.
+Ex- A capsule hides the bitter medicine inside a protective shell, just like a class hides its data and exposes it only through methods.
+
+
+2.Inheritance- Inheritance is a feature in which one class/child class/derived class inherits properties and behaviour from another class/parent class/base class.
+It promotes code reuse and hierarchical structure.
+Java uses the extends keyword for inheritance.
+Ex- A child inherits traits like eye color and height from their parents.
+
+
+3.Polymorphism- Polymorphism is the ability of objects to take on different forms or behave in different ways dependent on the context in which they are used.
+Ex- The same person acts as a student at college, a player on the field and a child at home - different role, same individual.
+Types of Polymorphism
+1.Compile time Polymorphism/Static binding- It is achieved by method overloading.
+2.Run time Polymorphism/Dynamic binding- It is achieved by method overriding.
+
+
+4.Abstraction- Abstraction is the process of hiding all the unnecessary details and showing only the relevant features to the user.
+It is achieved via pure virtual function(in C++) and abstract classes/interfaces(in Java).
+Ex- You use smartphone by tapping icons, without knowing the internal code behind apps.

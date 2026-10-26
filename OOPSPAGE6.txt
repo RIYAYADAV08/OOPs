@@ -1,0 +1,4 @@
+Constructor 
+A constructor is a special method that is called automatically when an object is created.
+It is used to initialize an object.
+It has the same name as the class name,\

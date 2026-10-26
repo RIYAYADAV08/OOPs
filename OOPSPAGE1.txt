@@ -1,0 +1,23 @@
+OOPs is a programming paradigm based on classes and objects that helps us to design software using real-world entities.
+
+Procedural programming
+Code is written as a sequence of instructions.
+It mainly focuses on functions, rather than objects.
+Ex- C(Pure procedural programming language), PasCal, COBOL(Common Business Oriented Language)etc.
+
+Java is primarily an object-oriented programming language, but it also supports procedural programming language.
+
+Problems in PP                                                 Need Of OOPs
+Code is not well organized.                                    OOPs organize data using classes.
+Same code is written again and again.                          OOPs allows code reuse using Inheritance.
+Large programs are difficult to manage.                        Large programs are easy to manage.
+Anyone can access the data.                                    OOPs keeps data safe using encapsulation.
+Real world objects are difficult to represent.                 OOPs represents real-world objects.
+
+Advantages of OOPs
+Modularity- Code is divided into classes and objects, so it is easy to understand and manage.
+Reusability- OOPs allows code reuse using Inheritance, which saves time and efforts.
+Data Security(Encapsulation)- OOPs protects important details by hiding it, from the direct access.
+Maintainability- It is easy to update,modify and fix the code.
+Scalability- OOPs makes it easy to develop and manage large applications.
+Real world Modellings- OOPS represents real world objects like car, student, bank account etc.
